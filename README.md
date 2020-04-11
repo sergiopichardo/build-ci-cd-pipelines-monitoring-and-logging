@@ -15,7 +15,7 @@ As a part of the project, you will need to install Jenkins and a few plugins to 
 1. A little knowledge of basic commands in Unix terminal.
 1. Understanding of software testing frameworks - JMeter and JUnit
 1. Understanding of deployment strategies 
-
+w
 
 
 
